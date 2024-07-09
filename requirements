@@ -1,3 +1,5 @@
-prettyprint~= 
-twilio~= 
-requests~=
+prettyprint~=0.1.5
+twilio~=9.2.3
+requests~=2.32.3
+tqdm~=4.66.4
+python-dotenv~=1.0.1

@@ -59,3 +59,4 @@ def main() -> None:
         logging.error(f'An error occurred: {e}')
 
     progress_bar.close()
+    print('Sending the message is done ;) ')
